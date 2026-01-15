@@ -1,5 +1,8 @@
 # AI Model Comparison Dashboard
 
+[![](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://ai-model-comparison-vidit-bhatnagar.netlify.app)
+
+
 ## 📋 Project Overview
 This project is a React-based interactive dashboard designed to compare the performance of two Artificial Intelligence models (**AI_v1** vs **AI_v2**) in a hospital setting. It visualizes key performance indicators (KPIs) such as **Accuracy**, **Turnaround Time**, **Cost Efficiency**, and **Patient Satisfaction** across various medical departments.
 
